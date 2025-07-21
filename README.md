@@ -22,5 +22,6 @@ This is a simple, user-friendly calculator application built to perform basic ar
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/calculator-app.git
+git clone https://github.com/Lena3266/PLP_SEE
+
 cd calculator-app
